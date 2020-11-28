@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**RamonBell/RamonBell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<div align="center"><a name="menu"></a>
+  <h3>
+    <a href="https://www.smarthomemedic.com/">
+      Blog
+    </a>
+    <span> | </span>
+    <a href="https://github.com/RamonBell/my_ha_setup/projects">
+      Smart Home Prodjects
+    </a>
+    <span> | </span>
+    <a href="https://github.com/RamonBell/my_ha_setup/issues">
+      Open Issues
+    </a>
+    <span> | </span>
+    <a href="https://www.vcloudinfo.com/click-here">
+      Follow Me
+    </a>
+    <span> | </span>
+    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/tree/master/config">
+      Code
+    </a>
+    <span> | </span>
+  </h4>
