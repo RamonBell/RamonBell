@@ -1,3 +1,6 @@
+Welcome to my GitHub. I focus mainly on my Home Assistant Journey and all the things i do to mess it up 
+
+
 <p align="center">
 <div align="center"><a name="menu"></a>
   <h3>
@@ -13,12 +16,11 @@
       Open Issues
     </a>
     <span> | </span>
-    <a href="https://www.vcloudinfo.com/click-here">
-      Follow Me
-    </a>
-    <span> | </span>
-    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/tree/master/config">
-      Code
+    <a href="https://twitter.com/RasBe9244">
+      Twitter
     </a>
     <span> | </span>
   </h4>
+</h1>
+<p><strong>Be sure to <a href="#" title="star">⭐️</a> or <a href="#" title="fork">🔱</a> my repo if you find it useful! 🍻</strong></p>
+<div align="center">
