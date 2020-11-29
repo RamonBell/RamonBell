@@ -37,4 +37,5 @@ This Github Repo will present my findings and prodjects. If you want to join me,
 <!-- BLOG-POST-LIST:END -->
 
 <p><strong>Be sure to <a href="#" title="star">⭐️</a> or <a href="#" title="fork">🔱</a> my repo if you find it useful! 🍻</strong></p>
+<p><strong>I have four kids and no life away from work and home so this will be updated all the time. Check back frequently
 <div align="center">
