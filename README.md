@@ -1,4 +1,10 @@
 # Welcome to my GitHub. I focus mainly on my Home Assistant Journey and all the things I do to mess it up <img src="https://user-images.githubusercontent.com/50278221/99838601-a2804900-2b26-11eb-8e4b-d2cb986ca9b1.png" width="100" height="100" align="right">
+<a href="https://github.com/RamonBell">
+<img align="center" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RamonBell&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+<a href="https://github.com/sabesansathananthan">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+</a>
 <p align="center">
 <div align="left"><a name="menu"></a>
   <h3>
