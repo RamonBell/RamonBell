@@ -11,7 +11,7 @@
     </a>
     <span> | </span>
     <a href="https://github.com/RamonBell/my_ha_setup/projects">
-      Smart Home Prodjects
+      Smart Home Projects
     </a>
     <span> | </span>
     <a href="https://github.com/RamonBell/my_ha_setup/issues">
