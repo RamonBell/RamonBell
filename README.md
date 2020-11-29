@@ -27,7 +27,7 @@
 I am a retired FF Paramedic of 15 years. I have an addiction....home automation. I like anything and everything to do with making my house smarter. Join my in my fails and successes.
 My home automation journey started with an Echo Plus I got for Christmas 4 years ago. Then I kept reading about how the cloud was bad and you should us only self hosted devices. Well then Youtube lead me Dr Zzs and he talked about Home Assistant. My Home Assitant journey started and I fell hard down the rabbit hole. Now I run Home Assistant Supervised in a Proxmox VM with multiple HA backups and instances for testing. 
 
-This Github Repo will presnet my findings and prodjects. If you want to join me, help me, or just look in now and them feel free. I have had so much help along the way and am willing to give back as much as I can.
+This Github Repo will present my findings and prodjects. If you want to join me, help me, or just look in now and them feel free. I have had so much help along the way and am willing to give back as much as I can.
 
 ## My Blog Posts
 <!-- BLOG-POST-LIST:START -->
