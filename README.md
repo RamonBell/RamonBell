@@ -1,6 +1,6 @@
 # Welcome to my GitHub. I focus mainly on my Home Assistant Journey and all the things I do to mess it up <img src="https://user-images.githubusercontent.com/50278221/99838601-a2804900-2b26-11eb-8e4b-d2cb986ca9b1.png" width="100" height="100" align="right">
 <p align="center">
-<div align="center"><a name="menu"></a>
+<div align="left"><a name="menu"></a>
   <h3>
     <a href="https://github.com/RamonBell/my_ha_setup/">
       My Home Assistant Profile
