@@ -2,6 +2,10 @@
 <p align="center">
 <div align="center"><a name="menu"></a>
   <h3>
+    <a href="https://github.com/RamonBell/my_ha_setup/">
+      My Home Assistant Profile
+    </a>
+    <span> | </span>
     <a href="https://www.smarthomemedic.com/">
       Blog
     </a>
